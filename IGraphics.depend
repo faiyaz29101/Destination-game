@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646908330 c:\users\mimi\documents\new\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646905413 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1649684820 source:c:\users\msfai\desktop\igraphics\igraphics-master\ball destination project.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\users\msfai\desktop\igraphics\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\msfai\desktop\igraphics\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\msfai\desktop\igraphics\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649684822 source:c:\igraphics-master\igraphics-master\igraphics-master (2)\igraphics-master\ball destination project.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\igraphics-master\igraphics-master\igraphics-master (2)\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649718939 source:c:\igraphics-master\igraphics-master\ball destination project.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1649747929 source:c:\igraphics-master\igraphics-master\igraphics-master game project\igraphics-master\ball destination project.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\igraphics-master\igraphics-master\igraphics-master game project\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1649751588 source:c:\users\msfai\downloads\telegram desktop\destination game\igraphics-master\ball destination project.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\users\msfai\downloads\telegram desktop\destination game\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\msfai\downloads\telegram desktop\destination game\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\msfai\downloads\telegram desktop\destination game\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649763473 source:c:\igraphics-master\igraphics-master 3\igraphics-master\ball destination project final.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\igraphics-master\igraphics-master 3\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\igraphics-master\igraphics-master 3\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\igraphics-master\igraphics-master 3\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649778050 source:c:\users\msfai\desktop\igraphics-master 3\igraphics-master\ball destination project final.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\users\msfai\desktop\igraphics-master 3\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\msfai\desktop\igraphics-master 3\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\msfai\desktop\igraphics-master 3\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649849505 source:c:\igraphics-master\igraphics-master\igraphics-master 3\igraphics-master\ball destination project final.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\igraphics-master\igraphics-master\igraphics-master 3\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\igraphics-master\igraphics-master\igraphics-master 3\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\igraphics-master\igraphics-master\igraphics-master 3\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649868546 source:c:\users\msfai\desktop\destination\igraphics-master 3\igraphics-master\ball destination project final.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1646908332 c:\users\msfai\desktop\destination\igraphics-master 3\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\msfai\desktop\destination\igraphics-master 3\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\msfai\desktop\destination\igraphics-master 3\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
